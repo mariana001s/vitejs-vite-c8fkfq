@@ -1,0 +1,6 @@
+iew": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.4.9"
+  }
+}
